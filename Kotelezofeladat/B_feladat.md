@@ -5,8 +5,10 @@ Ez a projekt egy egyszerű repülőjegy foglalási rendszert valósít meg, ahol
 ## Általános elvárások
 
 - Pythonban készítsétek a vizsgafeladatot.
-- Csináljatok egy "adatok.txt" fájlt, amiben töltsétek ki a neveteket, szakotokat és Neptun kódotokat.
-- A kész projektet osszátok meg a saját GitHub repositorytokban PUBLIC-ra, és a repository URL-jét kell a Neptun feladatokhoz megjegyzésbe bemásolni.
+- A kész projektet töltsétek fel a saját GitHub repositorytokban. 
+  - Figyeljetek rá hogy a repó láthatósága PUBLIC legyen!
+- A feladatot beadni a Neptunban a "Kötelező project feladat" elnevezéső feladatban kell. 
+  - Készíts egy NEPTUNKOD.txt fájlt, amibe másold bele az előbbi pontban írt github repository linkjét. Ezt a fájlt töltsd fel!
 - **Határidő: 2026.05.24 23:59:59.**
 - Elküldés előtt tegyétek meg a következőket:
   - Egy browser incognito ablakában nézzétek meg az elküldendő GitHub repositoryt (látható, fent van az utolsó commit is).
@@ -27,6 +29,10 @@ Ez a projekt egy egyszerű repülőjegy foglalási rendszert valósít meg, ahol
 - **Jegy foglalása:** A járatokra jegyet lehet foglalni, és visszaadja a foglalás árát.
 - **Foglalás lemondása:** A felhasználó lemondhatja a meglévő foglalást.
 - **Foglalások listázása:** Az összes aktuális foglalás listázása.
+
+## További elvárt funkciók
+- Ahol csak lehet használj non-public attribútumokat, szükség esetén írj hozzá getter/setter-t.
+- Használj hibakezelést.
 
 ## Adatvalidáció
 

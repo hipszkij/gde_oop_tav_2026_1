@@ -5,9 +5,10 @@ Ez a projekt egy egyszerű autókölcsönző rendszert valósít meg, amelyben a
 ## Általános elvárások
 
 - Pythonban készítsétek a vizsgafeladatot.
-- Csináljatok egy "adatok.txt" fájlt, amiben töltsétek ki a neveteket, szakotokat és Neptun kódotokat.
-- A kész projektet töltsétek fel a saját GitHub repositorytokban. Figyeljetek rá hogy a repó láthatósága PUBLIC legyen.
-- A feladatot beadni a Neptunban a "Kötelező project feladat" elnevezéső feladatban kell. Készíts egy NEPTUNKOD.txt fájlt, amibe másold bele az előbbi pontban írt github repository linkjét. Ezt a fájlt töltsd fel
+- A kész projektet töltsétek fel a saját GitHub repositorytokban. 
+  - Figyeljetek rá hogy a repó láthatósága PUBLIC legyen!
+- A feladatot beadni a Neptunban a "Kötelező project feladat" elnevezéső feladatban kell. 
+  - Készíts egy NEPTUNKOD.txt fájlt, amibe másold bele az előbbi pontban írt github repository linkjét. Ezt a fájlt töltsd fel!
 - **Határidő: 2026.05.24 23:59:59.**
 - Elküldés előtt tegyétek meg a következőket:
   - Egy browser incognito ablakában nézzétek meg az elküldendő GitHub repositoryt (látható, fent van az utolsó commit is).
@@ -28,6 +29,10 @@ Ez a projekt egy egyszerű autókölcsönző rendszert valósít meg, amelyben a
 - **Autó bérlése:** Az autók bérelhetők egy napra, és a bérlés visszaadja az árat.
 - **Bérlés lemondása:** A felhasználó lemondhatja a meglévő bérlését.
 - **Bérlések listázása:** Az összes aktuális bérlés listázása.
+
+## További elvárt funkciók
+- Ahol csak lehet használj non-public attribútumokat, szükség esetén írj hozzá getter/setter-t.
+- Használj hibakezelést.
 
 ## Adatvalidáció
 
