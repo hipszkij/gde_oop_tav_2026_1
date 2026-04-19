@@ -8,7 +8,7 @@ Ez a projekt egy egyszerű autókölcsönző rendszert valósít meg, amelyben a
 - A kész projektet töltsétek fel a saját GitHub repositorytokban. 
   - Figyeljetek rá hogy a repó láthatósága PUBLIC legyen!
 - A feladatot beadni a Neptunban a "Kötelező project feladat" elnevezéső feladatban kell. 
-  - Készíts egy NEPTUNKOD.txt fájlt, amibe másold bele az előbbi pontban írt github repository linkjét. Ezt a fájlt töltsd fel!
+  - Készíts egy NEPTUNKOD.docx fájlt, amibe másold bele az előbbi pontban írt github repository linkjét. Ezt a fájlt töltsd fel!
 - **Határidő: 2026.05.24 23:59:59.**
 - Elküldés előtt tegyétek meg a következőket:
   - Egy browser incognito ablakában nézzétek meg az elküldendő GitHub repositoryt (látható, fent van az utolsó commit is).
