@@ -1,7 +1,4 @@
-# ZH — gyakorló kérdések (válaszok nélkül)
-
-Az alábbi kérdések az *Objektumorientált programozás* tárgyhoz készültek önálló gyakorlásra. A listában csak a kérdések szerepelnek — nincsenek válaszlehetőségek és megoldások.
-
+# ZH — gyakorló kérdések
 ---
 
 **1.** Mi jellemző az objektumorientált programozásra?
